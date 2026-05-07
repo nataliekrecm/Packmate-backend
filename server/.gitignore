@@ -1,1 +1,3 @@
 node_modules/
+dao/storage/tripList/*.json
+dao/storage/itemList/*.json
