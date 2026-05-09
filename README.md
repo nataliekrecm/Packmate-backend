@@ -1,6 +1,6 @@
 # PackMate 🎒
 
-PackMate is a backend app that helps you manage packing lists for your trips. You can create trips, add items to a global catalog, and track what you've already packed.
+PackMate is an app that helps you manage packing lists for your trips. You can create trips, add items to a global catalog, and track what you've already packed.
 
 ## Tech stack
 - Node.js
